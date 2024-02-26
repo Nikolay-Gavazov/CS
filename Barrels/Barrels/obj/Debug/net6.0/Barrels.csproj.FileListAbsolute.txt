@@ -1,0 +1,14 @@
+C:\Users\Niki\source\repos\Barrels\Barrels\bin\Debug\net6.0\Barrels.exe
+C:\Users\Niki\source\repos\Barrels\Barrels\bin\Debug\net6.0\Barrels.deps.json
+C:\Users\Niki\source\repos\Barrels\Barrels\bin\Debug\net6.0\Barrels.runtimeconfig.json
+C:\Users\Niki\source\repos\Barrels\Barrels\bin\Debug\net6.0\Barrels.dll
+C:\Users\Niki\source\repos\Barrels\Barrels\bin\Debug\net6.0\Barrels.pdb
+C:\Users\Niki\source\repos\Barrels\Barrels\obj\Debug\net6.0\Barrels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niki\source\repos\Barrels\Barrels\obj\Debug\net6.0\Barrels.AssemblyInfoInputs.cache
+C:\Users\Niki\source\repos\Barrels\Barrels\obj\Debug\net6.0\Barrels.AssemblyInfo.cs
+C:\Users\Niki\source\repos\Barrels\Barrels\obj\Debug\net6.0\Barrels.csproj.CoreCompileInputs.cache
+C:\Users\Niki\source\repos\Barrels\Barrels\obj\Debug\net6.0\Barrels.dll
+C:\Users\Niki\source\repos\Barrels\Barrels\obj\Debug\net6.0\refint\Barrels.dll
+C:\Users\Niki\source\repos\Barrels\Barrels\obj\Debug\net6.0\Barrels.pdb
+C:\Users\Niki\source\repos\Barrels\Barrels\obj\Debug\net6.0\Barrels.genruntimeconfig.cache
+C:\Users\Niki\source\repos\Barrels\Barrels\obj\Debug\net6.0\ref\Barrels.dll
