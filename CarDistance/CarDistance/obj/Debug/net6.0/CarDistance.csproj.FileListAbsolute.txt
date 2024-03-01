@@ -1,0 +1,3 @@
+C:\Users\Niki\source\repos\CarDistance\CarDistance\obj\Debug\net6.0\CarDistance.dll
+C:\Users\Niki\source\repos\CarDistance\CarDistance\obj\Debug\net6.0\refint\CarDistance.dll
+C:\Users\Niki\source\repos\CarDistance\CarDistance\obj\Debug\net6.0\CarDistance.pdb
