@@ -1,0 +1,14 @@
+C:\Users\Niki\source\repos\Exam2\Exam2\bin\Debug\net6.0\Exam2.exe
+C:\Users\Niki\source\repos\Exam2\Exam2\bin\Debug\net6.0\Exam2.deps.json
+C:\Users\Niki\source\repos\Exam2\Exam2\bin\Debug\net6.0\Exam2.runtimeconfig.json
+C:\Users\Niki\source\repos\Exam2\Exam2\bin\Debug\net6.0\Exam2.dll
+C:\Users\Niki\source\repos\Exam2\Exam2\bin\Debug\net6.0\Exam2.pdb
+C:\Users\Niki\source\repos\Exam2\Exam2\obj\Debug\net6.0\Exam2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niki\source\repos\Exam2\Exam2\obj\Debug\net6.0\Exam2.AssemblyInfoInputs.cache
+C:\Users\Niki\source\repos\Exam2\Exam2\obj\Debug\net6.0\Exam2.AssemblyInfo.cs
+C:\Users\Niki\source\repos\Exam2\Exam2\obj\Debug\net6.0\Exam2.csproj.CoreCompileInputs.cache
+C:\Users\Niki\source\repos\Exam2\Exam2\obj\Debug\net6.0\Exam2.dll
+C:\Users\Niki\source\repos\Exam2\Exam2\obj\Debug\net6.0\refint\Exam2.dll
+C:\Users\Niki\source\repos\Exam2\Exam2\obj\Debug\net6.0\Exam2.pdb
+C:\Users\Niki\source\repos\Exam2\Exam2\obj\Debug\net6.0\Exam2.genruntimeconfig.cache
+C:\Users\Niki\source\repos\Exam2\Exam2\obj\Debug\net6.0\ref\Exam2.dll
