@@ -1,0 +1,14 @@
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\bin\Debug\net6.0\ExamOOP.exe
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\bin\Debug\net6.0\ExamOOP.deps.json
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\bin\Debug\net6.0\ExamOOP.runtimeconfig.json
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\bin\Debug\net6.0\ExamOOP.dll
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\bin\Debug\net6.0\ExamOOP.pdb
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\obj\Debug\net6.0\ExamOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\obj\Debug\net6.0\ExamOOP.AssemblyInfoInputs.cache
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\obj\Debug\net6.0\ExamOOP.AssemblyInfo.cs
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\obj\Debug\net6.0\ExamOOP.csproj.CoreCompileInputs.cache
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\obj\Debug\net6.0\ExamOOP.dll
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\obj\Debug\net6.0\refint\ExamOOP.dll
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\obj\Debug\net6.0\ExamOOP.pdb
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\obj\Debug\net6.0\ExamOOP.genruntimeconfig.cache
+C:\Users\Niki\source\repos\ExamOOP\ExamOOP\obj\Debug\net6.0\ref\ExamOOP.dll
