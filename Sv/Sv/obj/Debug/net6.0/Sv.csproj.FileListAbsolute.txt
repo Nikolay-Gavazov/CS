@@ -1,0 +1,14 @@
+C:\Users\Niki\source\repos\Sv\Sv\bin\Debug\net6.0\Sv.exe
+C:\Users\Niki\source\repos\Sv\Sv\bin\Debug\net6.0\Sv.deps.json
+C:\Users\Niki\source\repos\Sv\Sv\bin\Debug\net6.0\Sv.runtimeconfig.json
+C:\Users\Niki\source\repos\Sv\Sv\bin\Debug\net6.0\Sv.dll
+C:\Users\Niki\source\repos\Sv\Sv\bin\Debug\net6.0\Sv.pdb
+C:\Users\Niki\source\repos\Sv\Sv\obj\Debug\net6.0\Sv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niki\source\repos\Sv\Sv\obj\Debug\net6.0\Sv.AssemblyInfoInputs.cache
+C:\Users\Niki\source\repos\Sv\Sv\obj\Debug\net6.0\Sv.AssemblyInfo.cs
+C:\Users\Niki\source\repos\Sv\Sv\obj\Debug\net6.0\Sv.csproj.CoreCompileInputs.cache
+C:\Users\Niki\source\repos\Sv\Sv\obj\Debug\net6.0\Sv.dll
+C:\Users\Niki\source\repos\Sv\Sv\obj\Debug\net6.0\refint\Sv.dll
+C:\Users\Niki\source\repos\Sv\Sv\obj\Debug\net6.0\Sv.pdb
+C:\Users\Niki\source\repos\Sv\Sv\obj\Debug\net6.0\Sv.genruntimeconfig.cache
+C:\Users\Niki\source\repos\Sv\Sv\obj\Debug\net6.0\ref\Sv.dll
